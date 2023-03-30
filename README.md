@@ -15,7 +15,7 @@
   <br/>
   <a href="mailto:jerrycahyosetiawan@student.telkomuniversity.ac.id">Jerry Cahyo Setiawan</a>,
   <a href="mailto:kemasmuslim@telkomuniversity.ac.id">Kemas Muslim Lhaksmana</a>, 
-  <a href="mailto:bunbunyamin@telkomuniversity.ac.id.">Bunyamin</a>, 
+  <a href="mailto:bunbunyamin@telkomuniversity.ac.id.">Bunyamin</a>
 </p>
 
 <p align="center">
