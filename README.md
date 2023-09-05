@@ -5,7 +5,7 @@
 <p align="center">
   Paper link:
   <br/>
-  <a href="https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/pages/view/future2">Download on JIPI</a>
+  <a href="https://jurnal.stkippgritulungagung.ac.id/index.php/jipi/article/view/3911/1651">Download on JIPI</a>
 </p>
 
 <p align="center">
